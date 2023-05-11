@@ -1,0 +1,4 @@
+JENKINS_USER = test.user
+JENKINS_PASSWORD=p@ssword1
+JENKINS_API_TOKEN = 22930ebd340c
+JENKINS_URL = https://jenkins.wa.spectranetix.com:8443/
